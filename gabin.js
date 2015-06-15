@@ -6,5 +6,5 @@
       a[key] = b[key];
     }
     return a;
-  }
+  };
 } (jQuery, window));
